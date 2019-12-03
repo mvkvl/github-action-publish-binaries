@@ -1,6 +1,5 @@
 name: 'github-action-publish-binaries'
 description: 'Publish binaries when new releases are made.'
-author: 'Steve Kemp'
 branding:
   icon: save
   color: black
